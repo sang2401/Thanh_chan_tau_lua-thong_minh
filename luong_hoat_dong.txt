@@ -1,0 +1,11 @@
+HE THONG THANH CHAN TAU HOA - LUONG HOAT DONG
+=============================================
+
+1. Khoi dong: LCD hien "THANH CHAN", kiem tra LED/coi/servo, thanh chan o vi tri MO.
+
+2. Moi 100ms doc 2 cam bien sieu am (nguong < 5cm):
+   - CB2 phat hien -> MO thanh chan, LED xanh, LCD "MOI DI"
+   - CB1 phat hien -> DONG thanh chan, LED do, coi keu, LCD "TAU HOA DANG TOI"
+   - Khong phat hien -> giu nguyen trang thai hien tai
+
+3. Uu tien: CB2 (mo) > CB1 (dong).
